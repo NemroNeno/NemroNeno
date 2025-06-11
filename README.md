@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhamamd Nabeel</h1>
 <h3 align="center">Passionate About AI & Building Intelligent System</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-5lms.vercel.app/](https://portfolio-website-5lms.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-website-ki3l.vercel.app/)
 
 - 📫 How to reach me **mnabeel.bese22seecs@seecs.edu.pk**
 
-- 📄 Know about my experiences [https://portfolio-website-5lms.vercel.app/Resume.pdf](https://portfolio-website-5lms.vercel.app/Resume.pdf)
+- 📄 Know about my experiences [my resume](https://portfolio-website-ki3l.vercel.app/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
